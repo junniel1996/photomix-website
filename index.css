@@ -202,7 +202,7 @@ ul {
 
 .row {
   height: 800px;
-  background-image: url("image/_ZEB6482.jpg");
+  background-color: lightblue;
   background-size: cover;
   background-position: center;
   transform: translate(0%, -10%);
@@ -327,7 +327,7 @@ background-color: #f04d0f;
   border-radius: 10%;
   box-shadow: 0 5px 10px rgba(0, 0, 0, 0.5);
   overflow: hidden;
-  background-image: url("image/17545.jpg");
+background-color: lightblue;
 background-size: cover;
 }
 .row3 .video-container {
